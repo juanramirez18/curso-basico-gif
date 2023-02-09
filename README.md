@@ -1,6 +1,6 @@
 # titulo h1
 ### titulo h3
-texto descriptivo **texto en negrita**
+texto descriptivo **texto en negrita** **texto personalizado**
 >Bloque de texto o comentario
 - item 1
 - item 2
