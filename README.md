@@ -1,5 +1,6 @@
 # titulo h1
 ### titulo h3texto descriptivo **texto en negrita** **texto personalizado**
+#### h4
 `while(i < 1){console.log("i es mayor");`
 >Bloque de texto o comentario
 - item 1
